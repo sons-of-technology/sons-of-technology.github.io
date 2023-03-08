@@ -30,7 +30,7 @@ twitter_username: byarmis
 github_username:  byarmis
 
 # Build settings
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme"
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
