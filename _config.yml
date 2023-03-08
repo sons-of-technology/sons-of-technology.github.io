@@ -62,3 +62,4 @@ defaults:
       share: true
 
 date_format: "%B %-d, %Y"
+
