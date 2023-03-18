@@ -2,4 +2,15 @@ byarmis:
   name: Ben Yarmis
   twitter: byarmis
   picture: /images/members/byarmis.jpeg
+  links:
+      - title: GitHub
+        url: https://github.com/byarmis
+        icon: fab fa-github-square
+      - title: Twitter
+        url: https://twitter.com/byarmis
+        icon: fab fa-twitter-square
+      - title: Instagram
+        url: https://instagram.com/byarmis
+        icon: fab fa-instagram
+
 
