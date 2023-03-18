@@ -1,6 +1,7 @@
 ---
 
-title: Hill Country Ride; October 2022
+title: Hill Country Ride
+date: 2022-10-01
 layout: post
 image: "images/2022-10-01-hill-country-ride/highres_507470494.jpg"
 author: byarmis
