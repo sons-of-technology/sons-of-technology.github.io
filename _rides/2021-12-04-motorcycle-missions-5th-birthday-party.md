@@ -1,6 +1,6 @@
 ---
 
-title: Motorcycle Missions 5th Birthday Part and Fundraiser
+title: Motorcycle Missions 5th Birthday Party and Fundraiser
 date: 2021-12-04
 layout: post
 image: "images/2021-12-04-motorcycle-missions-5th-birthday-party/highres_500624515.jpg"
