@@ -3,7 +3,9 @@
 title: Motorcycle Missions 5th Birthday Party and Fundraiser
 date: 2021-12-04
 layout: post
-image: "images/2021-12-04-motorcycle-missions-5th-birthday-party/highres_500624515.jpg"
+image:
+    path: /images/2021-12-04-motorcycle-missions-5th-birthday-party/highres_500624515.jpg
+    thumbnail: /images/thumbs/2021-12-04.jpg
 author: byarmis
 excerpt: Celebrating and supporting friends
 

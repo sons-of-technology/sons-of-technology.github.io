@@ -3,7 +3,9 @@
 title: SOT Winter Road Warriors Saturday Super Extravaganza Part II
 date: 2021-01-30
 layout: post
-image: "images/2021-01-30-SOT-winter-road-warriors-saturday-super-extravaganza/highres_494557022.jpg"
+image:
+    path: /images/2021-01-30-SOT-winter-road-warriors-saturday-super-extravaganza/highres_494557022.jpg
+    thumbnail: /images/thumbs/2021-01-30.jpg
 author: byarmis
 excerpt: I didn't pick the title, sorry
 

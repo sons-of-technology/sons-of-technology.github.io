@@ -3,7 +3,9 @@
 title: Willow City Loop
 date: 2020-09-12
 layout: post
-image: "images/2020-09-12-willow-city-loop/highres_492300457.jpg"
+image:
+    path: /images/2020-09-12-willow-city-loop/highres_492300457.jpg
+    thumbnail: /images/thumbs/2020-09-12.jpg
 author: byarmis
 excerpt: Three out of three commenters agree, it was a great ride!
 

@@ -3,7 +3,9 @@
 title: Cat House Lounge; Eureka Springs, Arkansas
 date: 2022-05-06
 layout: post
-image: "/images/2022-05-06-cat-house-lounge-eureka-springs-AK/highres_504026850.jpg"
+image: 
+    path: /images/2022-05-06-cat-house-lounge-eureka-springs-AK/highres_504026850.jpg
+    thumbnail: /images/thumbs/2022-05-06.jpg
 author: byarmis
 excerpt: Don plans a long, beautiful ride
 

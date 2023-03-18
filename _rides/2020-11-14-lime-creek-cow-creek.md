@@ -3,7 +3,9 @@
 title: Lime Creek, Cow Creek, and Lunch in Cedar Park
 date: 2020-11-14
 layout: post
-image: "images/2020-11-14-lime-creek-cow-creek/highres_493530578.jpg"
+image: 
+    path: /images/2020-11-14-lime-creek-cow-creek/highres_493530578.jpg
+    thumbnail: /images/thumbs/2020-11-14.jpg
 author: byarmis
 excerpt: We're nothing if not consistent
 

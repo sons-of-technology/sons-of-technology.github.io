@@ -3,7 +3,9 @@
 title: It's Finally Nice For at Least a Few Days, Let's Go for a Ride
 date: 2023-02-25
 layout: post
-image: "images/2023-02-25-its-finally-nice-for-at-least-a-few-days/highres_510928247.jpg"
+image: 
+    path: /images/2023-02-25-its-finally-nice-for-at-least-a-few-days/highres_510928247.jpg
+    thumbnail: /images/thumbs/2023-02-25.jpg
 author: byarmis
 excerpt: And because I commented on the weather...
 

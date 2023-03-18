@@ -3,7 +3,9 @@
 title: Old Favorites Cruise
 date: 2021-11-21
 layout: post
-image: "images/2021-11-21-old-favorites-cruise/highres_500382063.jpg"
+image: 
+    path: /images/2021-11-21-old-favorites-cruise/highres_500382063.jpg
+    thumbnail: /images/thumbs/2021-11-21.jpg
 author: byarmis
 excerpt: Popular roads for good reason
 

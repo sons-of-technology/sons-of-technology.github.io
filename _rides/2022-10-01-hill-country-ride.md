@@ -3,7 +3,9 @@
 title: Hill Country Ride
 date: 2022-10-01
 layout: post
-image: "images/2022-10-01-hill-country-ride/highres_507470494.jpg"
+image: 
+    path: /images/2022-10-01-hill-country-ride/highres_507470494.jpg
+    thumbnail: /images/thumbs/2022-10-01.jpg
 author: byarmis
 excerpt: Finally starting to cool off in Austin
 

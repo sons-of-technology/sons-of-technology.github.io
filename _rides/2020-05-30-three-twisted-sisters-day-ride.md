@@ -3,7 +3,9 @@
 title: Three Twisted Sisters Day Ride
 date: 2020-05-30
 layout: post
-image: "images/2020-05-30-three-twisted-sisters-day-ride/highres_490625285.jpg"
+image: 
+    path: /images/2020-05-30-three-twisted-sisters-day-ride/highres_490625285.jpg
+    thumbnail: /images/thumbs/2020-05-30.jpg
 author: byarmis
 excerpt: Bright and early start to the day
 
