@@ -3,6 +3,8 @@ layout: post
 title: Members
 ---
 
+# Leadership Team
+
 ## Ted B
 ![center-aligned-image](/images/members/tedb.jpeg){: .align-center}
 
@@ -26,4 +28,14 @@ title: Members
 
 ## Ben Y
 ![center-aligned-image](/images/members/beny.jpeg){: .align-center}
+
+# Members
+## Brent
+![center-aligned-image](/images/members/brent.jpeg){: .align-center}
+
+## Rob F
+![center-aligned-image](/images/members/robf.jpeg){: .align-center}
+
+## Victor L
+![center-aligned-image](/images/members/victorl.jpeg){: .align-center}
 
