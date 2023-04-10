@@ -6,7 +6,7 @@ title: Members
 # Leadership Team
 
 ## Gaute S
-![center-aligned-image](/images/members/gaute.jpeg){: .align-center}
+![center-aligned-image](/images/members/gautes.jpeg){: .align-center}
 
 ## Ted B
 ![center-aligned-image](/images/members/tedb.jpeg){: .align-center}
