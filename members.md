@@ -23,10 +23,17 @@ title: Members
 ## Ben Y
 ![center-aligned-image](/images/members/beny.jpeg){: .align-center}
 
-# Members
-## Brent
-![center-aligned-image](/images/members/brent.jpeg){: .align-center}
+Web-master and Discord-master, Ben has been riding with Sons for a few years now.  Bikes have included:
 
+* FZ-07
+* Ninja 650
+* ZX-6R
+* MT-09 SP
+* Tuareg 660
+
+He likes twisty roads, going fast on track, and will be going offroad shortly, so we'll see if he likes that too!
+
+# Members
 ## Ian M
 ![center-aligned-image](/images/members/ianm.jpeg){: .align-center}
 
