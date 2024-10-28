@@ -1,5 +1,8 @@
 # sons-of-technology.github.io
-The website for The Sons of Technology
+Motorcycle Riding Group in Austin, TX
+
+## Description
+Website for the Sons of Technology
 
 ## Developipng Locally
 
