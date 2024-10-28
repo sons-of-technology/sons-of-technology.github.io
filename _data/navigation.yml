@@ -6,4 +6,6 @@
   url: /rides/
 - title: Members
   url: /members
+  title: Calendar
+  url: /calendar
 
